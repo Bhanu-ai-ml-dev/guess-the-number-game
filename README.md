@@ -8,7 +8,7 @@ The computer randomly selects a number between 1 and 100. The user tries to gues
 ## 🚀 How to Play
 
 1. Run the game:
-2. 2. Enter your guesses.
+2. Enter your guesses.
 3. The game will tell you if your guess is too high, too low, or correct.
 4. Try to guess it in the fewest attempts!
 
